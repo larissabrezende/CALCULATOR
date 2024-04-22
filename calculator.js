@@ -41,8 +41,6 @@ document.getElementById("clear").addEventListener("click", function () {
   }
 })
 
-
-
 input.addEventListener("keydown", function (ev) {
   ev.preventDefault()
   if (allowedKeys.includes(ev.key)) {
