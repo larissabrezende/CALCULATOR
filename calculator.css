@@ -200,11 +200,11 @@
 
 @media (max-width: 500px) {
     #ThemeSwitcher {
-      padding: 0.25 0.5rem; /* Reduz o padding do botão */
-      font-size: 0.75rem; /* Reduz o tamanho da fonte */
-      width: 12rem; /* Define uma largura fixa de 4rem para o botão */
+      padding: 0.25 0.5rem;
+      font-size: 0.75rem;
+      width: 12rem;
       height: 2rem;
-      margin-left: 1rem; /* Empurra o botão para o lado direito */
+      margin-left: 1rem;
     }
   }
 
